@@ -1,5 +1,5 @@
 # news-website
-this website is made with html, css, jquery, php.
+this website is made with html, css, jquery, php & mysql.
 
 -login (admin) with default admin credentials - manage writers 
 - signup (writers) - signup as a writer so that you can be able to write and publish articles on the site
