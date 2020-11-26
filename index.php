@@ -16,10 +16,11 @@ $result = $conn->query($sql);
     if ($result->num_rows > 0) {
       while ($row = $result->fetch_assoc()) {
     ?><br><br>
+     <p><strong><?php echo $row['category']  ?></strong></i></p>
     <h1><?php echo $row['heading'] ?></h1>
     <h3><?php echo $row['content'] ?></h3>
-    <p>Article by:<i><?php echo $row['writer'] ?></i></p>
-    <p>Date:<em><?php echo $row['date'] ?></em></p>
+    <p>Article by: <i><?php echo $row['writer']  ?></i></p>
+    <p>Date: <em><?php echo $row['date'] ?></em></p>
 <?php
       }
     } else {

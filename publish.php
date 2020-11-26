@@ -29,12 +29,12 @@
         <label for="category">Category</label>
         <select name="category">
             <option value="Select">Select</option>
-            <option value="business">Business</option>
-            <option value="corona">Corona Virus</option>
-            <option value="crime">Crime</option>
-            <option value="politics">Politics</option>
-            <option value="sport">Sport</option>
-            <option value="technology">Technology</option>
+            <option value="Business">Business</option>
+            <option value="Corona">Corona Virus</option>
+            <option value="Cime">Crime</option>
+            <option value="Politics">Politics</option>
+            <option value="Sport">Sport</option>
+            <option value="Technology">Technology</option>
         </select><br>
         <label for="content">Content</label>
         <textarea name="content" cols="30" rows="5" placeholder="Type your story here..."></textarea><br>

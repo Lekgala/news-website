@@ -14,9 +14,9 @@
         <li id="logo">
             
         </li>
-        <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        <li><a href="index.php">Home<i class="fa fa-home" aria-hidden="true"></i></a></li>
         <li class="dropdown">
-            <a href="#" class="dropbtn"><i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
+            <a href="#" class="dropbtn">News<i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
             <div class="dropdown-content">
                <a href="business.php">Business</a>
                 <a href="crime.php">Crime</a>
@@ -30,7 +30,7 @@
        <li><a href="contact.php">Contact</a></li>
         <li><a href="About.php">About </a></li>
         
-  <li><a href="login.php"<i class="fa fa-sign-in" aria-hidden="true"></i></a></li>
+  <li><a href="login.php"<i class="fa fa-sign-in" aria-hidden="true">Login</i></a></li>
     </ul>
    
 </body>
